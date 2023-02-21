@@ -59,3 +59,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 22ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 2581)
 
 
+Started GET "/" for ::1 at 2023-02-21 18:40:52 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/rkanagaraj/.rvm/gems/ruby-2.6.6/gems/railties-6.0.6/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/rkanagaraj/.rvm/gems/ruby-2.6.6/gems/railties-6.0.6/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.1ms | Allocations: 747)
+Completed 200 OK in 44ms (Views: 18.5ms | ActiveRecord: 0.0ms | Allocations: 6624)
+
+
